@@ -1,6 +1,6 @@
 export const EXTERNAL_LINKS = {
-  NEWS: 'https://news.adayroi.jp',
-  TRIPS: 'https://trips.adayroi.jp',
-  JLPT: 'https://jlpt.adayroi.jp',
-  HOME: 'https://adayroi.jp',
+  NEWS: 'https://news.hungba.net',
+  TRIPS: 'https://trips.hungba.net',
+  JLPT: 'https://jlpt.hungba.net',
+  HOME: 'https://hungba.net',
 };

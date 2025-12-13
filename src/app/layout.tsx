@@ -12,7 +12,7 @@ const noto_sans_jp = Noto_Sans_JP({
 });
 
 export const metadata: Metadata = {
-  title: 'Adayroi - Vietnamese news in Japan',
+  title: 'Hungba - Vietnamese news in Japan',
   description: 'Edit prompt, fix, translate, and more',
 };
 
